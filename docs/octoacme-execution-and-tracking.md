@@ -22,6 +22,8 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - End-to-end smoke tests for critical flows before release
 - Security scanning in CI
 - Manual QA for feature acceptance when needed
+- QA/Test Engineer owns test plans, automated test suites, and release sign-off
+- For detailed QA workflows and the Definition of Done, see [OctoAcme Quality Assurance Guide](octoacme-quality-assurance-guide.md)
 
 ## Reporting & Metrics
 - Track velocity and burndown
@@ -38,3 +40,5 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] QA/Test Engineer assigned and test plan created for each milestone
+- [ ] Design specs reviewed and approved before development begins
